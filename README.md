@@ -24,3 +24,9 @@
     + []()
   + Week 3
     + []()
+
+
+<kbd><img src="https://github.com/ChanchalKumarMaji/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Diagnosis/Certificate/Certificate.jpg" /></kbd>
+
+
+<kbd><img src="https://github.com/ChanchalKumarMaji/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Prognosis/Certificate/Certificate.jpg" /></kbd>

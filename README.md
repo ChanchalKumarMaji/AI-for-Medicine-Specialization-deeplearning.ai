@@ -1,1 +1,1 @@
-# AI for Medical Diagnosis
+# AI for Medicine Specialization
